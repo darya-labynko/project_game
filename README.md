@@ -8,7 +8,7 @@
 • AJAX to save user data in the high score table, showing the highest result;  
 • Adaptability to screen size and orientation;  
 • Cross-browser compatibility (works in current versions of desktop browsers - Firefox, Chrome);  
-• Uses animation extensively  
+• Uses animation and sound effects extensively  
 
 ***
 *Attention! Too much pink! :)*  
